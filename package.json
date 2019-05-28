@@ -1,6 +1,6 @@
 {
   "name": "vpub-bitcoind-rpc",
-  "description": "Particl Client Library to connect to Particl Core via RPC",
+  "description": "Vpub Client Library to connect to Vpub Core via RPC",
   "version": "0.7.0",
   "author": {
     "name": "Stephen Pair",
